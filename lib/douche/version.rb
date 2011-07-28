@@ -1,3 +1,3 @@
 module Douche
-  VERSION = "0.0.1111"
+  VERSION = "0.0.11111111111"
 end
